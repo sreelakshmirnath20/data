@@ -1,2 +1,2 @@
-def hello(hi,hello):
+def hello(hi):
     pass
